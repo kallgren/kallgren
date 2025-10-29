@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a frontend developer with 6+ years of experience. I enjoy crafting polished UIs with elegantly written code.
+
 <!--
 **kallgren/kallgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
